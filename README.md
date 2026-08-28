@@ -8,7 +8,7 @@ The portfolio brings together my experience, selected projects, technical skills
 
 ## Live Portfolio
 
-[View Portfolio](https://your-portfolio.vercel.app)
+[View Portfolio](https://portfolio-azure-pi-28.vercel.app/)
 
 ---
 
