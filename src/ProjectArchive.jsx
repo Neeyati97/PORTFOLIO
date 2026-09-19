@@ -11,7 +11,6 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/ARGUS",
     description:"A multi-agent AI research system that decomposes complex questions into research tasks, gathers evidence from the web and uploaded documents, critiques weak reasoning, evaluates research quality, and produces evidence-based answers."
   },
-
   {
     no:"02",
     title:"Drug Target Affinity Prediction",
@@ -21,7 +20,6 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/Drug-Target-Affinity-Prediction",
     description:"A deep learning project focused on predicting drug-target binding affinity for computational drug discovery."
   },
-
   {
     no:"03",
     title:"AgentDB",
@@ -31,7 +29,6 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/AgentDB",
     description:"An AI-powered dataset platform for generating synthetic datasets, discovering real-world datasets, analyzing data, and interacting with datasets through an AI chat assistant."
   },
-
   {
     no:"04",
     title:"Quantum-Safe Voting System",
@@ -41,7 +38,6 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/Quantum_safe-votingsystem",
     description:"A secure, anonymous and verifiable electronic voting system using Kyber-512 encryption and Dilithium-2 digital signatures."
   },
-
   {
     no:"05",
     title:"Wallie",
@@ -51,7 +47,6 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/Wallie",
     description:"A lightweight Windows wallpaper application for managing personal wallpaper collections, instant switching, timed rotation and system-tray controls."
   },
-
   {
     no:"06",
     title:"IMUMA",
@@ -61,7 +56,6 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/IMUMA",
     description:"A little image workshop for rescuing tiny images, converting formats, and turning pictures into wallpapers."
   },
-
   {
     no:"07",
     title:"idea13",
@@ -71,7 +65,6 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/idea13",
     description:"A playful computer-vision experiment combining webcam interaction, hand gestures, flowers, stars, powers and puzzle effects."
   },
-
   {
     no:"08",
     title:"Opticloak",
@@ -81,7 +74,6 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/Opticloak",
     description:"A machine-learning project exploring computational prediction and intelligent analysis."
   },
-
   {
     no:"09",
     title:"Smart Timetable Planning System",
@@ -91,7 +83,6 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/Timetable_System",
     description:"A timetable planning system built with FastAPI and React for organizing and managing schedules through a clean web interface."
   },
-
   {
     no:"10",
     title:"Snaplet",
@@ -101,7 +92,6 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/Snaplet",
     description:"A lightweight study companion combining focus timers, rest sessions, checklist management and long-term progress tracking in an installable PWA."
   },
-
   {
     no:"11",
     title:"Automated Task Approval",
@@ -111,7 +101,6 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/Automated-task-approval-with-acl-and-workflows-Servicenow-",
     description:"An automated task-management and approval workflow using ServiceNow Flow Designer, ACLs and role-based permissions."
   },
-
   {
     no:"12",
     title:"Streamlining Ticket Assignment",
@@ -121,17 +110,15 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/Streamlining-ticket-assignment",
     description:"A ServiceNow workflow that automates ticket assignment using predefined conditions, assignment rules and role-based logic."
   },
-
   {
     no:"13",
     title:"Real Estate",
-    category:"Personal",
+    category:"Learning",
     type:"React · Tailwind · Framer Motion",
     image:"/projects/real-estate.png",
     link:"https://github.com/Neeyati97/real_estate",
     description:"A responsive real-estate web application featuring property listings, agent details and interactive navigation."
   },
-
   {
     no:"14",
     title:"Flutter Basic Breakkie",
@@ -141,7 +128,6 @@ const archiveProjects=[
     link:"https://github.com/Neeyati97/Flutter-basic-breakkie_",
     description:"A Flutter learning project featuring popular diets, recommended meal plans, categories, SVG icons and search filters."
   },
-
   {
     no:"15",
     title:"Currency Converter",
@@ -150,6 +136,50 @@ const archiveProjects=[
     image:"/projects/currency.png",
     link:"https://github.com/Neeyati97/Currency_converter",
     description:"A Flutter currency-converter app with real-time USD-to-INR exchange-rate fetching, validation and responsive UI."
+  },
+  {
+    no:"16",
+    title:"FashViT-ion",
+    category:"Academic",
+    type:"Vision Transformer · Fine-Tuning",
+    image:"/projects/fashvit-ion.png",
+    link:"https://github.com/Neeyati97/FashViT-ion",
+    description:"A fashion-focused deep learning project using Vision Transformer fine-tuning for image classification, model evaluation and custom fashion-image inference."
+  }
+];
+
+const learningRepos=[
+  {
+    no:"01",
+    title:"AI / ML Notes",
+    type:"NOTES · PRACTICALS",
+    description:"Structured notes and hands-on work covering Python, NumPy, Pandas, statistics, SQL, machine learning, deep learning, NLP, computer vision and MLOps.",
+    topics:["Python","ML","Deep Learning","NLP","CV","MLOps"],
+    link:"https://github.com/Neeyati97/AIML"
+  },
+  {
+    no:"02",
+    title:"Generative AI",
+    type:"NOTES · PRACTICALS",
+    description:"My Generative AI learning collection covering LLMs, Hugging Face, OpenAI, prompt engineering, vector databases, LangChain, RAG, fine-tuning, LlamaIndex and LLMOps.",
+    topics:["LLMs","LangChain","RAG","Fine-Tuning","LLMOps"],
+    link:"https://github.com/Neeyati97/Generative_AI"
+  },
+  {
+    no:"03",
+    title:"Agentic AI",
+    type:"NOTES · PRACTICALS",
+    description:"Notes and practical work covering AI agents, reinforcement learning concepts, LangGraph, multi-agent systems, CrewAI, Agno, Agentic RAG, MCP and OpenAI Agents SDK.",
+    topics:["Agents","LangGraph","CrewAI","Agno","MCP"],
+    link:"https://github.com/Neeyati97/Agentic_AI"
+  },
+  {
+    no:"04",
+    title:"PyTorch Practicals",
+    type:"HANDS-ON · NOTEBOOKS",
+    description:"A collection of PyTorch notebooks exploring classification workflows across audio, images, pretrained vision models, tabular data and text.",
+    topics:["PyTorch","Audio","Vision","Tabular","Text"],
+    link:"https://github.com/Neeyati97/PyTorch_Practical"
   }
 ];
 
@@ -182,13 +212,20 @@ function ProjectArchive(){
 
   return(
     <main className="archive-page">
-      <div className={`archive-cursor ${cursor.active?"visible":""} ${cursor.hover?"hovering":""}`}
-        style={{left:cursor.x,top:cursor.y}}>
+
+      <div
+        className={`archive-cursor ${cursor.active?"visible":""} ${cursor.hover?"hovering":""}`}
+        style={{left:cursor.x,top:cursor.y}}
+      >
         <img src="/archive/cursor.png" alt="" />
       </div>
 
       <nav className="archive-nav">
-        <a href="#projects" onMouseEnter={hoverOn} onMouseLeave={hoverOff}>
+        <a
+          href="#projects"
+          onMouseEnter={hoverOn}
+          onMouseLeave={hoverOff}
+        >
           ← Back to portfolio
         </a>
 
@@ -196,6 +233,7 @@ function ProjectArchive(){
       </nav>
 
       <header className="archive-hero">
+
         <div className="archive-title">
           <span>PROJECT ARCHIVE / 2026</span>
 
@@ -218,10 +256,13 @@ function ProjectArchive(){
 
           <small>PLAY / EXPLORE / REPEAT</small>
         </div>
+
       </header>
 
       <section className="archive-projects">
+
         <div className="archive-toolbar">
+
           <div className="filter-cloud">
             {filters.map(item=>(
               <button
@@ -241,9 +282,11 @@ function ProjectArchive(){
             <span>{String(visibleProjects.length).padStart(2,"0")}</span>
             <small>SHOWING</small>
           </div>
+
         </div>
 
         <div className="archive-grid">
+
           {visibleProjects.map(project=>(
             <article
               className="archive-card"
@@ -251,7 +294,9 @@ function ProjectArchive(){
               onMouseEnter={hoverOn}
               onMouseLeave={hoverOff}
             >
+
               <div className="archive-image">
+
                 <img
                   src={project.image}
                   alt={project.title}
@@ -267,9 +312,11 @@ function ProjectArchive(){
                   <small>{project.category}</small>
                   <strong>{project.title}</strong>
                 </div>
+
               </div>
 
               <div className="archive-info">
+
                 <div className="archive-meta">
                   <span>{project.category}</span>
                   <small>{project.type}</small>
@@ -288,26 +335,103 @@ function ProjectArchive(){
                 >
                   View project ↗
                 </a>
+
               </div>
+
             </article>
           ))}
+
         </div>
+
+      </section>
+
+      <section className="archive-learning">
+
+        <div className="learning-heading">
+
+          <div>
+            <span>NOTES / LEARNING / PRACTICE</span>
+
+            <h2>
+              Things I learned<br/>
+              along the way.
+            </h2>
+          </div>
+
+          <p>
+            Notes I wrote, concepts I revised and code I practiced while
+            figuring things out one topic at a time.
+          </p>
+
+        </div>
+
+        <div className="learning-grid">
+
+          {learningRepos.map(repo=>(
+            <article
+              className="learning-card"
+              key={repo.title}
+              onMouseEnter={hoverOn}
+              onMouseLeave={hoverOff}
+            >
+
+              <div className="learning-card-top">
+                <span>{repo.no}</span>
+                <small>{repo.type}</small>
+              </div>
+
+              <h3>{repo.title}</h3>
+
+              <p>{repo.description}</p>
+
+              <div className="learning-tags">
+                {repo.topics.map(topic=>(
+                  <span key={topic}>{topic}</span>
+                ))}
+              </div>
+
+              <a
+                href={repo.link}
+                target="_blank"
+                rel="noreferrer"
+                onMouseEnter={hoverOn}
+                onMouseLeave={hoverOff}
+              >
+                Explore repository
+                <span>↗</span>
+              </a>
+
+            </article>
+          ))}
+
+        </div>
+
       </section>
 
       <section className="archive-ending">
+
         <small>THE ARCHIVE IS NEVER REALLY FINISHED.</small>
 
         <h2>
           More experiments will appear here.
         </h2>
 
-        <span>15 → ∞</span>
+        <span>16 → ∞</span>
+
       </section>
 
       <footer className="archive-footer">
         <span>NEEYATI VIJJESWARAPU</span>
-        <a href="#projects">RETURN TO PORTFOLIO ↑</a>
+
+        <a
+          href="#projects"
+          onMouseEnter={hoverOn}
+          onMouseLeave={hoverOff}
+        >
+          RETURN TO PORTFOLIO ↑
+        </a>
       </footer>
+
     </main>
   );
 }

@@ -10,7 +10,7 @@ const LINKS = {
   email: "mailto:neeyati.vijj@gmail.com",
   github: "https://github.com/Neeyati97",
   linkedin: "https://linkedin.com/in/neeyativijj",
-  resume: "https://drive.google.com/file/d/1EVz8w2PAqmmcDuJ5eLib3jSs8D6iAQ2c/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1eBSulKcSUeY_1Ia99tRh_qofBV1q734U/view?usp=sharing",
 
   certificates:{
   infosys:"https://drive.google.com/file/d/1qwUUTPvRyc8EaWwXoOwrnEWXQqfx3viI/view?usp=sharing",
